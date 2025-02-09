@@ -21,7 +21,7 @@ Gorillas is a modern rendition of the classic 1991 game where two gorillas, perc
 
 ### Play Online
 
-Access the game directly in your browser [here]().
+Access the game directly in your browser [here](https://bluewhale1202.github.io/gorillas-game/).
 
 ### Local Installation
 
