@@ -17,6 +17,11 @@ Gorillas is a modern rendition of the classic 1991 game where two gorillas, perc
 2. **Throw**: Release the mouse button to launch the banana. The goal is to hit the opposing gorilla.
 3. **Turn-Based**: Players alternate turns. The first to successfully hit the other wins the game.
 
+## Preview
+
+![image](https://github.com/user-attachments/assets/5d52a480-07db-418f-8253-9426126e33af)
+
+
 ## Installation
 
 ### Play Online
